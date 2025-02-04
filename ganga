@@ -5,4 +5,7 @@ for (( i=1; i<=$N; i++ )); do
 sum=$((sum + i))
 done
 echo "Sum of integers from 1 to $N is: $sum"
+durga suresh 
+completed the  task
+in githab
 
